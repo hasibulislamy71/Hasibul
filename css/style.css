@@ -1,0 +1,72 @@
+.color
+{
+    
+    background-color: aqua;
+    color: chartreuse;
+  
+}
+.colmiddle{
+    
+    color: aliceblue;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 66pxx;
+    padding: 10%;
+    font-size: 100px;
+    color: black;
+
+}
+
+
+.what{
+   
+    color: red;
+    padding:2%;
+}
+.bbimage{
+    background:url('/image/scenary7.jpg');
+    background-size: cover;
+}
+.size{
+    font-size: 23px;
+    padding: 10px;
+}
+.ssh{
+    background-color: aqua;
+}
+.about{
+    color: black;
+    background-color: #8FBC8F;
+    padding:2%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ppading{
+    text-align: center;
+    font-size: 50px;
+    padding: 4%;
+    color: black;
+}
+.success1{
+    background-color: WHITE;
+    color: black;
+    font-size: 34px;
+}
+.hhh{
+    background: url('/image/scenary6.jpg');
+    background-size: cover;
+    width: 1400px;
+    height: 1200px;
+    
+}
+.ff{
+    text-align: center;
+}
+.fff{
+    text-align: center;
+}
+.rrr{
+    font-size: 60px;
+    text-align: center;
+    background-color: aliceblue;
+}
